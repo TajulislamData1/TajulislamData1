@@ -25,12 +25,11 @@ Meet Me, Taj ul Islam. I am a Computer Science graduate passionate about Data An
 
 </br>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
+📊 </br>
 
-```
-<!--END_SECTION:waka-->
+📊 **This Week I Spent My Time On:**
+<!-- START_SECTION:waka -->
+```text
 
 
 📈 **My GitHub Stats:**
